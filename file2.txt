@@ -1,1 +1,2 @@
 "FILE2" 
+"ADD LINE in terminal 2" 

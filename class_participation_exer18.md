@@ -1,94 +1,94 @@
 Proper completion of this exercise is considered as part of course participation.
 
 Which of these code smells are signs of "bloat", i.e., code, methods, and classes that have increased to an extent that they become hard to work with.
-[ ] comments
-[ ] duplicated code
-[ ] long method
-[ ] large class
-[ ] data classes
-[ ] data clumps
-[ ] large parameter list
-[ ] divergent change
-[ ] shotgun surgery
-[ ] feature envy
-[ ] inappropriate intimacy
-[ ] message chains
-[ ] primitive obsession
-[ ] switch statements
-[ ] speculative generality
-[ ] refused bequest
+- comments
+- duplicated code
+- long method
+- large class
+- data classes
+- data clumps
+- large parameter list
+- divergent change
+- shotgun surgery
+- feature envy
+- inappropriate intimacy
+- message chains
+- primitive obsession
+- switch statements
+- speculative generality
+- refused bequest
 
 Which of these code smells are signs of incomplete or incorrect use of object-oriented design principles?
-[ ] comments
-[ ] duplicated code
-[ ] long method
-[ ] large class
-[ ] data classes
-[ ] data clumps
-[ ] large parameter list
-[ ] divergent change
-[ ] shotgun surgery
-[ ] feature envy
-[ ] inappropriate intimacy
-[ ] message chains
-[ ] primitive obsession
-[ ] switch statements
-[ ] speculative generality
-[ ] refused bequest
+- comments
+- duplicated code
+- long method
+- large class
+- data classes
+- data clumps
+- large parameter list
+- divergent change
+- shotgun surgery
+- feature envy
+- inappropriate intimacy
+- message chains
+- primitive obsession
+- switch statements
+- speculative generality
+- refused bequest
 
 Which of these code smells are signs that change is difficult and likely expensive?
-[ ] comments
-[ ] duplicated code
-[ ] long method
-[ ] large class
-[ ] data classes
-[ ] data clumps
-[ ] large parameter list
-[ ] divergent change
-[ ] shotgun surgery
-[ ] feature envy
-[ ] inappropriate intimacy
-[ ] message chains
-[ ] primitive obsession
-[ ] switch statements
-[ ] speculative generality
-[ ] refused bequest
+- comments
+- duplicated code
+- long method
+- large class
+- data classes
+- data clumps
+- large parameter list
+- divergent change
+- shotgun surgery
+- feature envy
+- inappropriate intimacy
+- message chains
+- primitive obsession
+- switch statements
+- speculative generality
+- refused bequest
 
 Which of these code smells are signs of something unnecessary, which if avoided would lead to cleaner, more efficient, and easier to understand code?
-[ ] comments
-[ ] duplicated code
-[ ] long method
-[ ] large class
-[ ] data classes
-[ ] data clumps
-[ ] large parameter list
-[ ] divergent change
-[ ] shotgun surgery
-[ ] feature envy
-[ ] inappropriate intimacy
-[ ] message chains
-[ ] primitive obsession
-[ ] switch statements
-[ ] speculative generality
-[ ] refused bequest
+- comments
+- duplicated code
+- long method
+- large class
+- data classes
+- data clumps
+- large parameter list
+- divergent change
+- shotgun surgery
+- feature envy
+- inappropriate intimacy
+- message chains
+- primitive obsession
+- switch statements
+- speculative generality
+- refused bequest
 
 Which of these code smells are signs of excessive coupling between classes?
-[ ] comments
-[ ] duplicated code
-[ ] long method
-[ ] large class
-[ ] data classes
-[ ] data clumps
-[ ] large parameter list
-[ ] divergent change
-[ ] shotgun surgery
-[ ] feature envy
-[ ] inappropriate intimacy
-[ ] message chains
-[ ] primitive obsession
-[ ] switch statements
-[ ] speculative generality
-[ ] refused bequest
+- comments
+- duplicated code
+- long method
+- large class
+- data classes
+- data clumps
+- large parameter list
+- divergent change
+- shotgun surgery
+- feature envy
+- inappropriate intimacy
+- message chains
+- primitive obsession
+- switch statements
+- speculative generality
+- refused bequest
 
 Consider the following piece of code:
 ```java
